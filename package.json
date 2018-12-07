@@ -1,0 +1,23 @@
+{
+  "name": "raspberry-bedtime",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/taximoocow/raspberry-bedtime.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/taximoocow/raspberry-bedtime/issues"
+  },
+  "homepage": "https://github.com/taximoocow/raspberry-bedtime#readme",
+  "dependencies": {
+    "philips-hue": "^1.2.0"
+  }
+}
